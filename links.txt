@@ -1,0 +1,8 @@
+https://github.com/JanCantCode/Scratch-Cloud-Connection/blob/main/index.js
+
+https://github.com/vlang/v/blob/master/vlib/net/http/http.v
+
+https://github.com/vlang/v/blob/master/vlib/net/http/header.v
+
+https://modules.vlang.io/net.http.html#Header.get
+
